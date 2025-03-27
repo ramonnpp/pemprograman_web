@@ -1,0 +1,9 @@
+input[type="text"]{
+    width: 250px;
+}
+select[id="Hobi"]{
+    width: 150px;
+}
+input[type="email"]{
+    width: 200px;
+}
