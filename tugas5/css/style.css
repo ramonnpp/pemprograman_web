@@ -1,0 +1,36 @@
+body {
+  background-color: #f2f2f2;
+}
+
+.navbar {
+  background-color: #1bbc9b;
+}
+
+.profile-img {
+  width: 85px;
+  height: 125px;
+  border-radius: 20px;
+  background-color: #dee2e6;
+  font-size: 50px;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  background-color: #2f2f2f;
+  color: #adb5bd;
+  font-size: 14px;
+}
+
+footer a {
+  color: #20c997;
+  text-decoration: none;
+}
+
+.footer-bottom {
+  background-color: #222222;
+  color: #adb5bd;
+  font-size: 13px;
+}
